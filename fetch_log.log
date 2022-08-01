@@ -1,0 +1,5 @@
+07/30/2022 15:22:50 - root - INFO - Object of type bytes is not JSON serializable
+07/30/2022 15:23:51 - root - INFO - Object of type bytes is not JSON serializable
+07/30/2022 15:25:32 - root - INFO - dumps() takes 1 positional argument but 2 were given
+07/30/2022 15:25:52 - root - INFO - Object of type bytes is not JSON serializable
+07/30/2022 15:28:33 - root - INFO - 'Response' object has no attribute 'toJson'
